@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(to right,#99dde7, #ff4766)
+}
+.timer{
+    width: 220px;
+    background-color: #ff4766;
+    border-radius: 10px;
+    padding: 20px;
+}
+.main-heading{
+    margin-bottom: 180px;
+}
+.for-button{
+    display: block;
+    margin: auto;
+}
+
+.minute-counter,.second-counter{
+    width: 60px;
+    height: 50px;
+    opacity: 100%;
+    background-color: #ff4766;
+    border: 0ch;
+    font-size: 30px;
+    text-align: center;
+}
